@@ -47,21 +47,38 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test
+Tabulation for Open Circuit Test :
 
-Tabulation for Load Test:
+<img width="261" height="206" alt="image" src="https://github.com/user-attachments/assets/c4bbf2b1-45f0-4f73-82c3-9eae9f1685d6" />
 
-Model graph:
-Calculation: 
+
+Tabulation for Load Test: 
+
+<img width="255" height="231" alt="image" src="https://github.com/user-attachments/assets/f497aeeb-4a7b-421c-b8fe-8d9513544f9c" />
+
+
+Model graph Open Circuit test:
+
+<img width="498" height="236" alt="image" src="https://github.com/user-attachments/assets/ef579b1c-a7a1-4865-9c6b-6a8c1f1b9f10" />
+
+
+Model graph Load test :
+
+<img width="1037" height="328" alt="image" src="https://github.com/user-attachments/assets/a8afeb5e-fed6-46aa-8151-d258f9703111" />
+
 
 Open circuit characteristics:
 
-<img width="1212" height="836" alt="Screenshot 2026-10-23 205903" src="https://github.com/user-attachments/assets/8e94a4b5-2f3c-480c-8bea-1b798a764637" />
+<img width="852" height="492" alt="image" src="https://github.com/user-attachments/assets/2d4b0be7-2ef7-49ff-8cd0-f214662f12c4" />
+
+<img width="323" height="1600" alt="image" src="https://github.com/user-attachments/assets/ae56085b-2c09-4575-baaf-4f0554f6e9c3" />
 
 
 Load Characteristics:
-<img width="1210" height="383" alt="Screenshot 2026-10-23 205937" src="https://github.com/user-attachments/assets/234b540d-af85-4d56-8738-42c33fb50708" />
-<img width="1267" height="592" alt="Screenshot 2026-10-23 205926" src="https://github.com/user-attachments/assets/123c2487-4520-44d9-bba7-8bd85856783d" />
+
+<img width="1003" height="497" alt="image" src="https://github.com/user-attachments/assets/32ac4d28-5c62-4a62-911a-1f5a51313155" />
+
+<img width="283" height="1600" alt="image" src="https://github.com/user-attachments/assets/3f5f5270-6936-4169-8063-9d4cd61ae87b" />
 
  
 Result:
